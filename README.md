@@ -1,5 +1,5 @@
 # play_mixed_audio
-Build this yourself or download the .exe at TBA
+Build this yourself or download the .exe at https://varietal.gumroad.com/l/83y
 
 **Instruction's with using .py:**
 
